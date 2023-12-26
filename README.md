@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @myenugula
+- 👋 Hi, I’m Manideep Yenugula
 - 👀 I’m interested in Optimizing the code 
 - 🌱 I’m currently learning and implementing Sustainable computing using Performance engineering
 - 💞️ I’m looking to collaborate on AI, CPU, ML, CLOUD
